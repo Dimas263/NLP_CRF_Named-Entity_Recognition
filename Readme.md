@@ -2,7 +2,7 @@
 
 # Architecture
 
-<center><img src="CRF-Architecture.png" width=250 /></center>
+<center><img src="CRF-Architecture.png"/></center>
 
 # Dataset
 
