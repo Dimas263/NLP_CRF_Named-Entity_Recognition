@@ -46,7 +46,7 @@
 | Weighted | plant    | 0,936259236  | 0,9386041849 | 0,9369350301 |
 | Weighted | disease  | 0,936259236  | 0,9386041849 | 0,9369350301 |
 
-# **Classifier learned**
+# **Classifier Learned**
 
 ```yaml
 Top likely transitions:
@@ -72,7 +72,7 @@ plant  -> disease -2.267951
 disease -> plant   -3.829912
 ```
 
-# **State features**
+# **State Features**
 
 ```yaml
 Top positive:
