@@ -35,31 +35,7 @@
 | F-1 Scores   |           |        | 77%      |         |         |
 
 
-```yaml
-Top likely transitions:
-O      -> O       1.904613
-disease -> disease 0.701350
-plant  -> plant   0.032168
-O      -> disease 0.000929
-plant  -> O       -0.038007
-O      -> plant   -0.114507
-disease -> O       -0.411969
-plant  -> disease -1.917378
-disease -> plant   -2.525789
-
-Top unlikely transitions:
-O      -> O       1.904613
-disease -> disease 0.701350
-plant  -> plant   0.032168
-O      -> disease 0.000929
-plant  -> O       -0.038007
-O      -> plant   -0.114507
-disease -> O       -0.411969
-plant  -> disease -1.917378
-disease -> plant   -2.525789
-```
-
-
+# Predict
 ```yaml
 Top positive:
 4.842843 plant    word.lower():garlic
@@ -125,6 +101,3 @@ Top negative:
 -1.751468 O        word.lower():occlusion
 -1.743117 O        word[-3:]:nut
 ```
-
-## Output
-## [Pickle](ouput)
