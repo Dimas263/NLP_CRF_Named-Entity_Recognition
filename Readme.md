@@ -6,7 +6,7 @@
 ## <img src="https://img.icons8.com/external-fauzidea-flat-fauzidea/64/undefined/external-man-avatar-avatar-fauzidea-flat-fauzidea.png"/> **`Dimas Dwi Putra`**
 
 ## Architecture
-<center><img src="NER-CRF%20Architecture.png" width="600"></center>
+<img src="NER-CRF%20Architecture.png" width="2046">
 
 ## Dataset
 | Sentence #  | Word        | POS | Tag       |
