@@ -10,7 +10,7 @@
 <img src="NER-CRF%20Architecture.png" width="2046">
 </p>
 
-## Dataset<br>[View Dataset](input/)
+## Dataset<br>[View Dataset .csv](input/)
 | Sentence #  | Word        | POS | Tag       |
 | ----------- | ----------- | --- | --------- |
 | Sentence: 0 | studies     | NNS | O         |
